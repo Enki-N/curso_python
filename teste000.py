@@ -1,1 +1,0 @@
-print("Call of Cthulhu")
