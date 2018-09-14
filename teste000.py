@@ -1,0 +1,1 @@
+print("Call of Cthulhu")
